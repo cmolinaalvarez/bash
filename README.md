@@ -10,6 +10,14 @@
 | mv [origen] [destino]   | Muevo o renombre archios y directorios                                | 
 | touch [archivo]         | Crea un archivo con el nombre especificado                            | 
 | cat [archivo]           | Muestra el contenido de un archivo en la terminal                     | 
+| grep [patron] [archivo] | Busca el texto en archivos utilizando un patron específico            | 
+| find [directorio] [opciones] | Busca archivos y directorios en el directorio específico          | 
+| chmod [permisos] [archivo/directorio] | Cambia los permisos de archivos y directorios           | 
+| chown [usuario:grupo] [archivo/directorio] |  Cambia el propietario y el grupo de archivos y directorios|
+| sudo [comando]          | Ejecuta el comando con privilegios de superusuario                    |
+
+[Más comandos linux](https://www.freecodecamp.org/espanol/news/comandos-de-linux/)
+
 
 
 
