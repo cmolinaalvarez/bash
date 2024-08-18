@@ -15,7 +15,7 @@
 | chmod [permisos] [archivo/directorio] | Cambia los permisos de archivos y directorios           | 
 | chown [usuario:grupo] [archivo/directorio] |  Cambia el propietario y el grupo de archivos y directorios|
 | sudo [comando]          | Ejecuta el comando con privilegios de superusuario                    |
-| ls | grep "no"          | Lista los archivos o directorios que contengan en el nombre la palabra no|
+| ls "|" grep "no"          | Lista los archivos o directorios que contengan en el nombre la palabra no|
 
 [Más comandos linux](https://www.freecodecamp.org/espanol/news/comandos-de-linux/)
 
